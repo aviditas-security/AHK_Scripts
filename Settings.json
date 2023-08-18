@@ -1,0 +1,6 @@
+{
+    "arguments":[
+        "-provider Steam",
+        "-autologin"
+    ]
+}
